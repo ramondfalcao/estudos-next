@@ -17,6 +17,9 @@ export default function Navbar() {
           <Link href="/conta">
             Conta
           </Link>
+          <Link href="/todos">
+            Todo
+          </Link>
         </li>
       </ul>
   )
