@@ -1,13 +1,13 @@
 import Head from "next/head";
 import Link from "next/link";
 
-export default function Products() {
+export default function Conta() {
   return (
     <>
       <Head>
-        <title>Produtos</title>
+        <title>Detalhes da Conta</title>
       </Head>
-      <h1>Produtos</h1>
+      <h1>Detalhes da Conta</h1>
       <Link href="/">
           Voltar
       </Link>
